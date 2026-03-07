@@ -1,5 +1,5 @@
 # Reactflow examples
-This repository is created for reactflow examples app show cases. 
+This repository is created for reactflow examples app show case. 
 
 # 🚀 React Flow Examples • Workflow Automation • Visual Flow Builder  
 *A curated collection of advanced, real-world **ReactFlow examples** used for automation workflows, chatbot builders, drag‑and‑drop editors, visual node systems, and AI‑powered pipelines.*
