@@ -1,4 +1,4 @@
-# Reactflow examples
+# Reactflow example
 This repository is created for reactflow examples app show case. 
 
 # 🚀 React Flow Examples • Workflow Automation • Visual Flow Builders
